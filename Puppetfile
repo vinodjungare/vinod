@@ -24,4 +24,9 @@ mod "profiles",
   
 mod "hieradata",
   :git => "https://github.com/vinodjungare/vinod-hieradata.git"
+
+mod "common",
+  :git => "https://github.com/vinodjungare/vinod-hieradata.git"
+  
+
   
