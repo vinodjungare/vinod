@@ -28,5 +28,8 @@ mod "hieradata",
 mod "common",
   :git => "https://github.com/vinodjungare/vinod-common.git"
   
+mod "gso",
+  :git => "https://github.com/vinodjungare/vinod-gso.git"
+  
 
   
