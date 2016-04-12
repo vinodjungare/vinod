@@ -30,8 +30,9 @@ mod "profiles",
 mod "hieradata",
   :git => "https://github.com/vinodjungare/vinod-hieradata.git"
 
-mod "common",
-  :git => "https://github.com/vinodjungare/vinod-common.git"
-  
 mod "gso",
   :git => "https://github.com/vinodjungare/vinod-gso.git"
+
+mod "oshardening",
+  :git => "https://github.com/vinodjungare/vinod-oshardening.git"
+
