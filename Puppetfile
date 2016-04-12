@@ -7,12 +7,17 @@ mod "jfryman/nginx", "0.3.0"
 mod "rtyler/jenkins", "1.6.1"
 mod "puppetlabs/stdlib" 
 mod "puppetlabs/inifile"
-mod "camptocamp/archive", "0.8.1"
+mod "puppet/archive", "0.5.1"
 mod "puppetlabs/apt"
 mod "puppetlabs/java"
 mod "darin/zypprepo"
 mod "nanliu/staging"
 mod "puppetlabs/concat"
+mod "puppetlabs/ntp", "4.1.0"
+mod "saz/sudo", "3.1.0"
+mod "saz/ssh", "2.8.1"
+mod "herculesteam/augeasproviders_core", "2.1.2"
+mod "herculesteam/augeasproviders_pam", "2.1.0"
 
 # Modules from the Internal Stash repos
 
@@ -30,6 +35,3 @@ mod "common",
   
 mod "gso",
   :git => "https://github.com/vinodjungare/vinod-gso.git"
-  
-
-  
